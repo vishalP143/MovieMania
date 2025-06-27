@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     allowedHosts: [
-      '5173-vishalp143-moviemania-c0f2jm9lpbb.ws-us120.gitpod.io'
+      '5173-vishalp143-moviemania-dtfyvowz4ps.ws-us120.gitpod.io'
     ]
   }
 })
